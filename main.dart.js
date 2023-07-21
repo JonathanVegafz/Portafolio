@@ -62173,7 +62173,7 @@ case 1:return A.a1(q,r)}})
 return A.a2($async$$0,r)},
 $S:22}
 A.Ss.prototype={
-O(a){var s=null,r="Copyright \xa9 2021 khalid-alsaleh-dev",q="Delius",p="khalidlionel.2089@gmail.com",o=this.c,n=t.E,m=o>500?A.el(A.e([A.bQ(r,A.cK(q,B.al,s,14),s,s),A.bQ("All rights reserved",A.cK(q,B.al,s,14),s,s),A.bQ(p,A.cK(q,B.al,s,14),s,s)],n),B.Q,B.Cy,B.a8):A.dH(A.e([A.bQ(r,A.cK(q,B.al,s,14),s,s),B.af,A.bQ(" All rights reserved",A.cK(q,B.al,s,14),s,s),B.af,A.bQ(p,A.cK(q,B.al,s,14),s,s)],n),B.Q,B.V)
+O(a){var s=null,r="Copyright \xa9 2023 Jonathan-Vega-Dev",q="Delius",p="jonathan.vega.f@mail.pucv.cl",o=this.c,n=t.E,m=o>500?A.el(A.e([A.bQ(r,A.cK(q,B.al,s,14),s,s),A.bQ("All rights reserved",A.cK(q,B.al,s,14),s,s),A.bQ(p,A.cK(q,B.al,s,14),s,s)],n),B.Q,B.Cy,B.a8):A.dH(A.e([A.bQ(r,A.cK(q,B.al,s,14),s,s),B.af,A.bQ(" All rights reserved",A.cK(q,B.al,s,14),s,s),B.af,A.bQ(p,A.cK(q,B.al,s,14),s,s)],n),B.Q,B.V)
 return A.cH(s,A.dH(A.e([new A.ou(o,this.d,s),B.Fp,m],n),B.Q,B.V),B.z,B.aJ,s,s,s,s,s,s,B.yc,s,s,o)}}
 A.J8.prototype={
 O(a){var s=null
